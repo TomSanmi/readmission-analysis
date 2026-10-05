@@ -75,19 +75,27 @@ Age, gender, medication change, insulin status, and number of procedures showed 
 
 ---
 
-## So What — Recommendation
+## Recommendation
 
-Hospitals should target follow-up resources — discharge calls, medication reviews, home visits — at patients with multiple prior admissions and/or prior ED visits. These groups have the highest measurable risk, and are the ones most likely to benefit from intervention.
+Hospitals should target follow-up resources such as discharge calls, medication reviews, home visits — at patients with multiple prior admissions and/or prior ED visits. These groups have the highest measurable risk, and are the ones most likely to benefit from intervention.
 
 ---
 
 ## Limitations
 
+
 · Sample bias correction: An early 10,000-row sample suggested a clean age trend that disappeared on the full dataset. Findings are based on the full 101,766 encounters after this correction.
+
 · Small groups in the tails: Beyond 5 prior visits or 9 diagnoses, group sizes drop below 500. Rates there are unreliable. Analysis is limited to where the data is solid.
+
 · Correlation, not causation: Longer stays and prior visits don't cause readmission. They signal sicker patients.
+
+
 · Filtered population: The dataset only includes diabetics with 1–14 day stays, lab tests, and medications. Findings may not apply to other patient groups.
+
+
 · Old, US-only data: 1999–2008, 130 American hospitals. Patterns may differ in other regions or in modern practice.
+
 
 ---
 

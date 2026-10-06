@@ -94,7 +94,7 @@ Hospitals should target follow-up resources such as discharge calls, medication 
 · Filtered population: The dataset only includes diabetics with 1–14 day stays, lab tests, and medications. Findings may not apply to other patient groups.
 
 
-· Old, US-only data: 1999–2008, 130 American hospitals. Patterns may differ in other regions or in modern practice.
+· Old, US-only data: 1999–2008, 130 American hospitals. Patterns may differ in other regions or in modern practice. 
 
 
 ---
@@ -102,3 +102,14 @@ Hospitals should target follow-up resources such as discharge calls, medication 
 ## Tools
 
 · Excel (PivotTables, KPI formulas, dashboard design)
+
+---
+
+## Files
+
+- `README.md` — this document
+- `Dashboard.png` — final dashboard screenshot
+- [Full Excel workbook (v1.0 release)](https://github.com/TomSanmi/readmission-analysis/releases/tag/v1.0)
+-  — includes raw data, pivot analysis, KPI formulas, and dashboard
+
+
